@@ -1,4 +1,7 @@
 ## Hi there 👋
+Throughout the various submission periods, we will use this space to provide general information about current HDX system issues. Please check back regularly to remain up-to-date on the status of all bugs we are actively addressing.
+
+This site was migrated from Weebly to GitHub Pages.
 
 <!--
 **HUD-HDX/HUD-HDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
